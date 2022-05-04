@@ -16,8 +16,8 @@
 		CAF1A53F281F7DBE003C0160 /* GoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF1A53E281F7DBD003C0160 /* GoodViewController.swift */; };
 		CAF1A541281F7DE2003C0160 /* PunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF1A540281F7DE2003C0160 /* PunViewController.swift */; };
 		CAF1A543281F7E16003C0160 /* DadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF1A542281F7E16003C0160 /* DadViewController.swift */; };
-		CAF1A5452821E80B003C0160 /* usb.png in Resources */ = {isa = PBXBuildFile; fileRef = CAF1A5442821E80B003C0160 /* usb.png */; };
 		CAF1A5472821F289003C0160 /* KnockKnockViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF1A5462821F288003C0160 /* KnockKnockViewController.swift */; };
+		CAF1A54B28224D49003C0160 /* usb.png in Resources */ = {isa = PBXBuildFile; fileRef = CAF1A54A28224D49003C0160 /* usb.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,8 +32,8 @@
 		CAF1A53E281F7DBD003C0160 /* GoodViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoodViewController.swift; sourceTree = "<group>"; };
 		CAF1A540281F7DE2003C0160 /* PunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PunViewController.swift; sourceTree = "<group>"; };
 		CAF1A542281F7E16003C0160 /* DadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DadViewController.swift; sourceTree = "<group>"; };
-		CAF1A5442821E80B003C0160 /* usb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = usb.png; path = ../../usb.png; sourceTree = "<group>"; };
 		CAF1A5462821F288003C0160 /* KnockKnockViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KnockKnockViewController.swift; sourceTree = "<group>"; };
+		CAF1A54A28224D49003C0160 /* usb.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = usb.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,6 @@
 		CAF1A529281F4E8A003C0160 /* ikid */ = {
 			isa = PBXGroup;
 			children = (
-				CAF1A5442821E80B003C0160 /* usb.png */,
 				CAF1A52A281F4E8B003C0160 /* AppDelegate.swift */,
 				CAF1A52C281F4E8B003C0160 /* SceneDelegate.swift */,
 				CAF1A52E281F4E8B003C0160 /* ViewController.swift */,
@@ -78,6 +77,7 @@
 				CAF1A540281F7DE2003C0160 /* PunViewController.swift */,
 				CAF1A542281F7E16003C0160 /* DadViewController.swift */,
 				CAF1A5462821F288003C0160 /* KnockKnockViewController.swift */,
+				CAF1A54A28224D49003C0160 /* usb.png */,
 			);
 			path = ikid;
 			sourceTree = "<group>";
@@ -140,7 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CAF1A5452821E80B003C0160 /* usb.png in Resources */,
+				CAF1A54B28224D49003C0160 /* usb.png in Resources */,
 				CAF1A537281F4E90003C0160 /* LaunchScreen.storyboard in Resources */,
 				CAF1A534281F4E90003C0160 /* Assets.xcassets in Resources */,
 				CAF1A532281F4E8B003C0160 /* Main.storyboard in Resources */,
